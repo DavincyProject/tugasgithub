@@ -7,7 +7,7 @@ NIM     : 17200285
 
 <p>
 1.) Git Add 
-<br>Berguna untuk menambah file baru ke dalam repository Github
+<br><strong>Berguna untuk menambah file baru ke dalam repository Github</strong>
 
 2.) Git Clone
 <br>Berguna untuk mengclone / mengcopy sebuah repo di dalam github ke lokal
